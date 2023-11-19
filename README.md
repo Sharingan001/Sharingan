@@ -33,9 +33,7 @@ Darkdump Proxy: ``python3 darkdump.py --query bitcoin -p``<br/>
     |____/|__,|_| |_,_|___|___|_|_|_|  _|
                                     |_|
 
-        Developed By: Josh Schiavone
-        https://github.com/josh0xA
-            joshschiavone.com
+        Developed By: Team Sharingan
               Version 2.0
 
 usage: darkdump.py [-h] [-v] [-q QUERY] [-a AMOUNT] [-p]
